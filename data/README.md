@@ -13,5 +13,3 @@ Data after all cleaning, processing, and analyzing
 Files: 
 - data_gpr.csv
 - price_data.csv 
-
----
